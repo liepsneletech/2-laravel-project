@@ -46,8 +46,8 @@
             </ul>
         </nav>
 
-  <main
-  >@yield("content")
+  <main>
+    @yield("content")
   </main>
 
   <footer
